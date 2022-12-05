@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(22, 142, 122, 0.2);
+    margin:0 20%;
+    font-family: monospace;
+}
+
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+    font-size:3em;
+}
+
+img{
+    height: auto;
+    max-width: 600px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    border: 2px solid #000;
+    width: 40%;
+}
+
+#img-caption{
+    font-size: 12.5px;
+}
+
+div#tribute-info{
+    background-color:rgba(4, 3, 3, 0.2);
+    box-shadow: 20px 20px 15px grey;
+    padding:7px 12px;
+    margin-top:20px;
+}
+h1.title{
+    color:white;
+    text-align:center;
+    text-shadow: 5px 5px 10px black;
+}
